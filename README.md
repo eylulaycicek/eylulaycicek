@@ -1,76 +1,78 @@
-👋 Hi there! I’m Eylül Ayçiçek
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-📬 **Contact:**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eylül+AYÇİÇEK....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-Email: s.eylulaycicek@gmail.com
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/eylül-ayçiçek/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@s.eylulaycicek" title="Medium Profile"><img width="22" src="images/medium"> Medium</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Eylül Ayçiçek 👋 Mathematician & Software Developer from Turkey
+  <br>
+  🎓 I graduated from Ankara University, Faculty of Science, Department of Mathematics
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+	💻 I have 1 year of experience as a Full Stack Developer with .Net Core Technologies.
+	<br>
+	👀 My general interest about Web technologies and Artificial intelligence
+  <br>
+  📚 I’m currently learning how to build Website with RoR
+  <br>
+  📫 How to reach me: <a href="mailto: s.eylulaycicek@gmail.com"> s.eylulaycicek@gmail.com</a>
+</p>
 
-🎓 **Education:**
+<hr>
 
-Graduated from Ankara University, Faculty of Science, Mathematics Department.
+### Backend Languages & Frameworks
 
-💻 **Experience:**
-
-1 year of experience as a Full Stack Developer with .Net Core Technologies.
-
-📚 **Skills:**
-
-**Backend:**
-- **Languages:** C#, Python, Ruby.
-- **Frameworks:** ASP.NET, ASP.Net Core, Ruby On Rails, Entity Framework, Entity Framework Core, Adonet.
-- **Databases:** MSSQL, MYSQL, T-SQL, LinQ.
-- **APIs:** RESTful API.
-- **Libraries and Tools:** Pandas, Numpy, TensorFlow, Pytorch.
-- **Version Control:** Git, GitHub.
-
-**Frontend:**
-- **Languages:** HTML, CSS, JavaScript, TypeScript.
-- **Frameworks/Libraries:** Bootstrap, jQuery.
-- **Technologies:** Ajax, Fetch API.
-
-**Other:**
-- **Tools:** Microsoft Office (Word, PowerPoint, Excel).
-- **Methodologies and Management:** Scrum, Jira.
-- **Other:** C# Windows Form.
-
-
-🌱 **Learning:**
-
-**Current Courses:**
-- Ruby On Rails bootcamp on Patika.dev
-- CyberStart bootcamp on Kodluyoruz
-- Yazılım ve Teknoloji Okulu on CoderSpace
-- Yapay Zeka Uzmanlığı Bootcamp on Tech İstanbul
-
-**Completed Bootcamps:**
-- Ministry of Labor Qualified IT Specialist Training Program (680 hours)
-- FSMVÜ Continuing Education Center Software Expertise (432 hours)
-
-📜 **Certifications:**
-- ICCW Software Expertise Certificate
-- Microsoft AZ-204 Azure Developer Associate
-- EDX IBM Deep Learning with Python and PyTorch
-- MEB Enterprise Resource Planning and Data Analysis
-- İşkur Enterprise Resource Planning and Data Analysis
-- Global AI HUB:
-  - Aygaz Python Bootcamp
-  - AI Business School Introduction to AI, Robotics, and Data
-  - AI Business School Data Visualization
-
-👀 **Interests:**
-- Web technologies
-- Artificial intelligence
-
-💼 **Career Goals:**
-- To become a professional in the software development industry.
-- To develop new projects while continuously engaging with current technologies and artificial intelligence, maintaining my deep interest in these areas.
-
-🎵 **Hobbies:**
-- Tennis
-- Running (half marathon)
-- Theatre
-- Piano
-- Latin Dances
-- TTF referee
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C#](https://img.shields.io/badge/c%23-%2305122A?style=flat&logo=c-sharp)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%2305122A?style=flat&logo=.net)
+![ASP.Net Core](https://img.shields.io/badge/ASP.Net%20Core-%2305122A?style=flat&logo=.net)
+![Ruby On Rails](https://img.shields.io/badge/Ruby%20On%20Rails-%23CC0000?style=flat&logo=ruby-on-rails)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%2305122A?style=flat&logo=.net)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%2305122A?style=flat&logo=.net)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-%2305122A?style=flat&logo=.net)
 
 
+### Frontend Languages & Frameworks
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### Databases
+![MSSQL](https://img.shields.io/badge/-SQL-000?&logo=MsSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+
+### Libraries and Tools
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000?&logo=PyTorch)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### Others
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office)
+![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![C# Windows Form](https://img.shields.io/badge/-C%23%20Windows%20Form-05122A?style=flat&logo=c-sharp)
