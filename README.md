@@ -1,18 +1,18 @@
-👋 Hi there! I’m Eylül Ayçiçek.
+👋** Hi there! I’m Eylül Ayçiçek.**
 
-📬 Contact:
+📬 **Contact:**
 
 Email: s.eyulaycicek@gmail.com
 
-🎓 Education:
+🎓 **Education:**
 
 Graduated from Ankara University, Faculty of Science, Mathematics Department.
 
-💻 Experience:
+💻 **Experience:**
 
 1 year of experience as a Full Stack Developer with .Net Core Technologies.
 
-💻 **Skills:**
+📚 **Skills:**
 
 **Backend:**
 - **Languages:** C#, Python, Ruby.
