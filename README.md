@@ -49,7 +49,6 @@ Completed Bootcamps:
 -Ministry of Labor Qualified IT Specialist Training Program (680 hours)
 -FSMVÜ Continuing Education Center Software Expertise (432 hours)
 
-
 📜 Certifications:
 
 -ICCW Software Expertise Certificate
@@ -62,7 +61,6 @@ Global AI HUB:
 -AI Business School Introduction to AI, Robotics, and Data
 -AI Business School Data Visualization
 
-
 👀 Interests:
 
 -Web technologies
@@ -72,7 +70,6 @@ Global AI HUB:
 
 To become a professional in the software development industry.
 To develop new projects while continuously engaging with current technologies and artificial intelligence, maintaining my deep interest in these areas.
-
 
 🎵 Hobbies:
 
