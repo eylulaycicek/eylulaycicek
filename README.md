@@ -1,4 +1,4 @@
-👋** Hi there! I’m Eylül Ayçiçek.**
+👋 Hi there! I’m Eylül Ayçiçek
 
 📬 **Contact:**
 
