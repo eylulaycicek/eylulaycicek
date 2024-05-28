@@ -16,12 +16,12 @@ Graduated from Ankara University, Faculty of Science, Mathematics Department.
 
 Backend:
 
--Languages: C#, Python, Ruby
--Frameworks: ASP.NET, ASP.Net Core, Ruby On Rails, Entity Framework, Entity Framework Core, Adonet
--Databases: MSSQL, MYSQL, T-SQL, LinQ
--APIs: RESTful API
--Libraries and Tools: Pandas, Numpy, TensorFlow, Pytorch
--Version Control: Git, GitHub
+Languages: C#, Python, Ruby
+Frameworks: ASP.NET, ASP.Net Core, Ruby On Rails, Entity Framework, Entity Framework Core, Adonet
+Databases: MSSQL, MYSQL, T-SQL, LinQ
+APIs: RESTful API
+Libraries and Tools: Pandas, Numpy, TensorFlow, Pytorch
+Version Control: Git, GitHub
 
 Frontend:
 
