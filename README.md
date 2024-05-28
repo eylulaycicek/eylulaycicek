@@ -12,28 +12,26 @@ Graduated from Ankara University, Faculty of Science, Mathematics Department.
 
 1 year of experience as a Full Stack Developer with .Net Core Technologies.
 
-📚 Skills:
+💻 **Skills:**
 
-Backend:
+**Backend:**
+- **Languages:** C#, Python, Ruby.
+- **Frameworks:** ASP.NET, ASP.Net Core, Ruby On Rails, Entity Framework, Entity Framework Core, Adonet.
+- **Databases:** MSSQL, MYSQL, T-SQL, LinQ.
+- **APIs:** RESTful API.
+- **Libraries and Tools:** Pandas, Numpy, TensorFlow, Pytorch.
+- **Version Control:** Git, GitHub.
 
-Languages: C#, Python, Ruby.
-Frameworks: ASP.NET, ASP.Net Core, Ruby On Rails, Entity Framework, Entity Framework Core, Adonet.
-Databases: MSSQL, MYSQL, T-SQL, LinQ.
-APIs: RESTful API.
-Libraries and Tools: Pandas, Numpy, TensorFlow, Pytorch.
-Version Control: Git, GitHub.
+**Frontend:**
+- **Languages:** HTML, CSS, JavaScript, TypeScript.
+- **Frameworks/Libraries:** Bootstrap, jQuery.
+- **Technologies:** Ajax, Fetch API.
 
-Frontend:
+**Other:**
+- **Tools:** Microsoft Office (Word, PowerPoint, Excel).
+- **Methodologies and Management:** Scrum, Jira.
+- **Other:** C# Windows Form.
 
--Languages: HTML, CSS, JavaScript, TypeScript
--Frameworks/Libraries: Bootstrap, jQuery
--Technologies: Ajax, Fetch API
-
-Other:
-
--Tools: Microsoft Office (Word, PowerPoint, Excel)
--Methodologies and Management: Scrum, Jira
--Other: C# Windows Form
 
 🌱 Learning:
 
