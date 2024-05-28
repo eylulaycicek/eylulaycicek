@@ -2,14 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eylül+AYÇİÇEK....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Eylül+AYÇİÇEK...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/eylül-ayçiçek/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@s.eylulaycicek" title="Medium Profile"><img width="22" src="images/medium"> Medium</a></code>
-</h5>
+<p align="center">
+   <a href="https://www.linkedin.com/in/eylül-ayçiçek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+    <a href="https://medium.com/@s.eylulaycicek">
+        <img src="https://img.shields.io/badge/Medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" height=25>
+    </a> 
+</p>
+
 <br>
 <p align="center">
   Hi, I'm Eylül Ayçiçek 👋 Mathematician & Software Developer from Turkey
