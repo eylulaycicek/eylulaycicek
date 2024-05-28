@@ -2,7 +2,7 @@
 
 📬 **Contact:**
 
-Email: s.eyulaycicek@gmail.com
+Email: s.eylulaycicek@gmail.com
 
 🎓 **Education:**
 
