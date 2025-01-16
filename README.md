@@ -19,6 +19,9 @@
   <br>
   🎓 I graduated from Ankara University, Faculty of Science, Department of Mathematics
   <br>
+   <br>
+  🎓 I am currently doing my master's degree with thesis on Artificial Intelligence at Gebze Technical University
+  <br>
   💻 I love writing code and learn anythings about it
   <br>
 	💻 I have 1 year of experience as a Full Stack Developer with .Net Core Technologies.
