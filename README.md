@@ -20,15 +20,15 @@
   🎓 I graduated from Ankara University, Faculty of Science, Department of Mathematics
   <br>
    <br>
-  🎓 I am currently doing my master's degree with thesis on Artificial Intelligence at Gebze Technical University
+  📑 I am currently doing my master's degree with thesis on Artificial Intelligence at Gebze Technical University
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-	💻 I have 1 year of experience as a Full Stack Developer with .Net Core Technologies.
+  🚀 I have ~2 year of experience as a Full Stack Developer with .Net Core Technologies.
 	<br>
 	👀 My general interest about Web technologies and Artificial intelligence
   <br>
-  📚 I’m currently learning how to build Website with RoR
+  📍 I am currently working as a .net developer at the Istanbul Municipality Information Processing Department.
   <br>
   📫 How to reach me: <a href="mailto: s.eylulaycicek@gmail.com"> s.eylulaycicek@gmail.com</a>
 </p>
