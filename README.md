@@ -21,7 +21,7 @@
    <br>
   📑 I am currently doing my master's degree with thesis on Artificial Intelligence at Gebze Technical University
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love math & writing code and learn anythings about it
   <br>
   🚀 I have ~2 year of experience as a Full Stack Developer with .Net Core Technologies.
 	<br>
